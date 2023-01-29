@@ -1,5 +1,5 @@
 # 💫About Me :
-I've created an SAP from scratch with html, css, and Javascript. 
+I've created a SAP from scratch with html, css, and Javascript. 
 I'm currently learning Python. I love connecting with people who are always trying to improve their skills. 
 Fun fact: I've skydived and do public speaking. Guess which one I think is scarier?
 
