@@ -1,6 +1,6 @@
 # Leaman Brown
 
-**It Infrastructure & Cybersecuritu| 15+ Real-World Labs | MBA | Security+ | CySA+ | Azure**
+**It Infrastructure & Cybersecurity | 15+ Real-World Labs | MBA | Security+ | CySA+ | Azure**
 
 Welcome to my project portfolio.
 
