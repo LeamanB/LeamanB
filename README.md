@@ -1,6 +1,6 @@
 # Leaman Brown
 
-**It Infrastructure & Cybersecurity | 15+ Real-World Labs | MBA | Security+ | CySA+ | Azure**
+*SOC Analyst | MBA | Security+ | CySA+ | Azure**
 
 Welcome to my project portfolio.
 
@@ -19,7 +19,7 @@ I’ve made over 15 technical projects across detection engineering, cloud archi
 - Power BI Threat Intelligence Dashboard  
 
 🎓 **Certifications:**  
-Security+, CySA+, Azure Fundamentals, A+, Network+, MBA in Finance
+Security+, CySA+, Azure Fundamentals, AI Security & Governance
 
 🔗 **Portfolio Website:** [www.LeamanBrownCyber.com](https://www.LeamanBrownCyber.com)  
 📫 **Let’s connect:** [LinkedIn](https://linkedin.com/in/LeamanBrown)
